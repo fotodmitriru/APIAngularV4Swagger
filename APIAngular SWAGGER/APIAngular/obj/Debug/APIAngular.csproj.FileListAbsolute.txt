@@ -1,0 +1,231 @@
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\csc.exe
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\System.Collections.Immutable.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\System.Reflection.Metadata.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\vbc.exe
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\VBCSCompiler.exe
+E:\Программы\VS2010\APIAngular\APIAngular\bin\roslyn\VBCSCompiler.exe.config
+E:\Программы\VS2010\APIAngular\APIAngular\bin\APIAngular.dll.config
+E:\Программы\VS2010\APIAngular\APIAngular\bin\APIAngular.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\APIAngular.pdb
+E:\Программы\VS2010\APIAngular\APIAngular\bin\EntityFramework.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\EntityFramework.SqlServer.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\Microsoft.Web.Infrastructure.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\Newtonsoft.Json.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Net.Http.Formatting.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Helpers.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Http.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Http.WebHost.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Mvc.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Razor.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Webpages.Deployment.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Webpages.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Webpages.Razor.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\EntityFramework.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\EntityFramework.SqlServer.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Razor.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Webpages.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Webpages.Deployment.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Webpages.Razor.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Helpers.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Mvc.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\Newtonsoft.Json.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Net.Http.Formatting.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Http.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\System.Web.Http.WebHost.xml
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\EntityFramework.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Razor.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Webpages.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Helpers.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Mvc.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Http.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Программы\VS2010\APIAngular\APIAngular\obj\Debug\APIAngular.dll
+E:\Программы\VS2010\APIAngular\APIAngular\obj\Debug\APIAngular.pdb
+E:\Программы\VS2010\APIAngular\APIAngular\obj\Debug\APIAngular.csprojResolveAssemblyReference.cache
+D:\APIAngular\APIAngular\bin\roslyn\csc.exe
+D:\APIAngular\APIAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\APIAngular\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\APIAngular\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\APIAngular\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\APIAngular\APIAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\APIAngular\APIAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\APIAngular\APIAngular\bin\roslyn\System.Collections.Immutable.dll
+D:\APIAngular\APIAngular\bin\roslyn\System.Reflection.Metadata.dll
+D:\APIAngular\APIAngular\bin\roslyn\vbc.exe
+D:\APIAngular\APIAngular\bin\roslyn\VBCSCompiler.exe
+D:\APIAngular\APIAngular\bin\roslyn\VBCSCompiler.exe.config
+D:\APIAngular\APIAngular\bin\APIAngular.dll.config
+D:\APIAngular\APIAngular\bin\APIAngular.dll
+D:\APIAngular\APIAngular\bin\APIAngular.pdb
+D:\APIAngular\APIAngular\bin\EntityFramework.dll
+D:\APIAngular\APIAngular\bin\EntityFramework.SqlServer.dll
+D:\APIAngular\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APIAngular\APIAngular\bin\Microsoft.Web.Infrastructure.dll
+D:\APIAngular\APIAngular\bin\Newtonsoft.Json.dll
+D:\APIAngular\APIAngular\bin\System.Net.Http.Formatting.dll
+D:\APIAngular\APIAngular\bin\System.Web.Helpers.dll
+D:\APIAngular\APIAngular\bin\System.Web.Http.dll
+D:\APIAngular\APIAngular\bin\System.Web.Http.WebHost.dll
+D:\APIAngular\APIAngular\bin\System.Web.Mvc.dll
+D:\APIAngular\APIAngular\bin\System.Web.Razor.dll
+D:\APIAngular\APIAngular\bin\System.Web.Webpages.Deployment.dll
+D:\APIAngular\APIAngular\bin\System.Web.Webpages.dll
+D:\APIAngular\APIAngular\bin\System.Web.Webpages.Razor.dll
+D:\APIAngular\APIAngular\bin\EntityFramework.xml
+D:\APIAngular\APIAngular\bin\EntityFramework.SqlServer.xml
+D:\APIAngular\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APIAngular\APIAngular\bin\System.Web.Razor.xml
+D:\APIAngular\APIAngular\bin\System.Web.Webpages.xml
+D:\APIAngular\APIAngular\bin\System.Web.Webpages.Deployment.xml
+D:\APIAngular\APIAngular\bin\System.Web.Webpages.Razor.xml
+D:\APIAngular\APIAngular\bin\System.Web.Helpers.xml
+D:\APIAngular\APIAngular\bin\System.Web.Mvc.xml
+D:\APIAngular\APIAngular\bin\Newtonsoft.Json.xml
+D:\APIAngular\APIAngular\bin\System.Net.Http.Formatting.xml
+D:\APIAngular\APIAngular\bin\System.Web.Http.xml
+D:\APIAngular\APIAngular\bin\System.Web.Http.WebHost.xml
+D:\APIAngular\APIAngular\bin\ru\EntityFramework.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Razor.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Webpages.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Helpers.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Mvc.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Http.resources.dll
+D:\APIAngular\APIAngular\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\APIAngular\APIAngular\obj\Debug\APIAngular.csprojResolveAssemblyReference.cache
+D:\APIAngular\APIAngular\obj\Debug\APIAngular.dll
+D:\APIAngular\APIAngular\obj\Debug\APIAngular.pdb
+D:\APIAngular\APIAngular\obj\Debug\APIAngular.Migrations.AddSortOrder.resources
+D:\APIAngular\APIAngular\obj\Debug\APIAngular.csproj.GenerateResource.Cache
+D:\APIAngular\APIAngular\bin\APIAngular.XML
+D:\APIAngular\APIAngular\bin\Swashbuckle.Core.dll
+D:\APIAngular\APIAngular\bin\WebActivatorEx.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\csc.exe
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\System.Collections.Immutable.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\System.Reflection.Metadata.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\vbc.exe
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\VBCSCompiler.exe
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\roslyn\VBCSCompiler.exe.config
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\APIAngular.dll.config
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\APIAngular.XML
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\APIAngular.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\APIAngular.pdb
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\EntityFramework.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\EntityFramework.SqlServer.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\Microsoft.Web.Infrastructure.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\Newtonsoft.Json.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\Swashbuckle.Core.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Net.Http.Formatting.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Helpers.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.WebHost.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Mvc.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Razor.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Deployment.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Razor.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\WebActivatorEx.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\EntityFramework.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\EntityFramework.SqlServer.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\Newtonsoft.Json.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Razor.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Deployment.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Razor.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Helpers.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Mvc.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Net.Http.Formatting.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.WebHost.xml
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\EntityFramework.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Razor.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Webpages.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Helpers.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Mvc.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Http.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\obj\Debug\APIAngular.csprojResolveAssemblyReference.cache
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\obj\Debug\APIAngular.dll
+E:\Программы\VS2010\APIAngular SWAGGER\APIAngular\obj\Debug\APIAngular.pdb
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\csc.exe
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\System.Collections.Immutable.dll
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\System.Reflection.Metadata.dll
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\vbc.exe
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\VBCSCompiler.exe
+D:\APIAngular SWAGGER\APIAngular\bin\roslyn\VBCSCompiler.exe.config
+D:\APIAngular SWAGGER\APIAngular\bin\APIAngular.dll.config
+D:\APIAngular SWAGGER\APIAngular\bin\APIAngular.XML
+D:\APIAngular SWAGGER\APIAngular\bin\APIAngular.dll
+D:\APIAngular SWAGGER\APIAngular\bin\APIAngular.pdb
+D:\APIAngular SWAGGER\APIAngular\bin\EntityFramework.dll
+D:\APIAngular SWAGGER\APIAngular\bin\EntityFramework.SqlServer.dll
+D:\APIAngular SWAGGER\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APIAngular SWAGGER\APIAngular\bin\Microsoft.Web.Infrastructure.dll
+D:\APIAngular SWAGGER\APIAngular\bin\Newtonsoft.Json.dll
+D:\APIAngular SWAGGER\APIAngular\bin\Swashbuckle.Core.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Net.Http.Formatting.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Helpers.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.WebHost.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Mvc.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Razor.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Deployment.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.dll
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Razor.dll
+D:\APIAngular SWAGGER\APIAngular\bin\WebActivatorEx.dll
+D:\APIAngular SWAGGER\APIAngular\bin\EntityFramework.xml
+D:\APIAngular SWAGGER\APIAngular\bin\EntityFramework.SqlServer.xml
+D:\APIAngular SWAGGER\APIAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APIAngular SWAGGER\APIAngular\bin\Newtonsoft.Json.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Razor.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Deployment.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Webpages.Razor.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Helpers.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Mvc.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Net.Http.Formatting.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.xml
+D:\APIAngular SWAGGER\APIAngular\bin\System.Web.Http.WebHost.xml
+D:\APIAngular SWAGGER\APIAngular\bin\ru\EntityFramework.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Razor.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Webpages.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Helpers.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Mvc.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Http.resources.dll
+D:\APIAngular SWAGGER\APIAngular\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\APIAngular SWAGGER\APIAngular\obj\Debug\APIAngular.csprojResolveAssemblyReference.cache
+D:\APIAngular SWAGGER\APIAngular\obj\Debug\APIAngular.dll
+D:\APIAngular SWAGGER\APIAngular\obj\Debug\APIAngular.pdb

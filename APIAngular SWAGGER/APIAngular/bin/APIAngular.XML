@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIAngular</name>
+    </assembly>
+    <members>
+        <member name="T:APIAngular.Controllers.BulletinsController">
+            <summary>
+            Управление объявлениями.
+            </summary>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.GetListBulletins(System.String,System.String,System.Boolean)">
+            <summary>
+            Возвращает список всех объявлений
+            </summary>
+            <param name="page">если параметр > 0, то список объявлений будет разбит на страницы, вернёт старницу под номером page</param>
+            <param name="countBullsOnPage">задаёт количество объявлений на странице, по умолчанию значение 10</param>
+            <param name="getOnlyCount">если параметр true, то в качестве ответа будет количество объявлений</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.GetBulletinById(System.Guid)">
+            <summary>
+            Возвращает объявление по Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.GetListBulletinsByUserId(System.Guid,System.Boolean)">
+            <summary>
+            Возвращает список всех объявлений пользователя по его Id
+            </summary>
+            <param name="id"></param>
+            <param name="getOnlyCount">если параметр true, то в качестве ответа будет количество объявлений</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.GetListBulletinsByFilter(APIAngular.Models.FilterBulletins)">
+            <summary>
+            Возвращает список объявлений по заданному фильтру
+            </summary>
+            <param name="filterBulletins">
+            </param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.AddBulletin(APIAngular.Models.NewBulletin)">
+            <summary>
+            Добавляет новое объявление
+            </summary>
+            <param name="newBulletin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.EditBulletin(APIAngular.Models.EditBulletin)">
+            <summary>
+            Редактирует объявление по параметру bullId 
+            </summary>
+            <param name="editBulletin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.DeleteBulletin(APIAngular.Models.DeleteBulletin)">
+            <summary>
+            Удаляет объявление по bullId
+            </summary>
+            <param name="deleteBulletin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.DeleteBulletinsByUserId(APIAngular.Models.DeleteBulletin)">
+            <summary>
+            Удаляет объявления по userId
+            </summary>
+            <param name="deleteBulletin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.BulletinsController.GetCountBullsWithCondition(System.String,System.Collections.Generic.List{System.Data.SqlClient.SqlParameter})">
+            <summary>
+            Возвращает количество записей в таблице Bulletins.
+            </summary>
+            <param name="sqlCondition">передаются только условия запроса</param>
+            <param name="sqlParameters">передаются параметры для sqlCondition</param>
+            <returns></returns>
+        </member>
+        <member name="T:APIAngular.Controllers.UsersController">
+            <summary>
+            Управление пользователями.
+            </summary>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.GetListUsers(System.String,System.String,System.Boolean)">
+            <summary>
+            Возвращает список всех пользователей
+            </summary>
+            <param name="page">если параметр > 0, то список пользователей будет разбит на страницы, вернёт старницу под номером page</param>
+            <param name="countUsersOnPage">задаёт количество пользователей на странице, по умолчанию значение 10</param>
+            <param name="getOnlyCount">если параметр true, то в качестве ответа будет количество пользователей</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.GetUserById(System.Guid)">
+            <summary>
+            Возвращает пользователя по его Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.GetListUsersByFilter(APIAngular.Models.FilterUsers)">
+            <summary>
+            Возвращает список объявлений по заданному фильтру
+            </summary>
+            <param name="filterUsers">
+            </param>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.AddUser(APIAngular.Models.NewUser)">
+            <summary>
+            Добавляет нового пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.EditUser(APIAngular.Models.NewUser)">
+            <summary>
+            Редактирование пользователя по userId
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.DeleteUser(APIAngular.Database.User)">
+            <summary>
+            Удаляет пользователя по userId. Удаляются все объявления(Bulletins) пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIAngular.Controllers.UsersController.GetCountUsersWithCondition(System.String,System.Collections.Generic.List{System.Data.SqlClient.SqlParameter})">
+            <summary>
+            Возвращает количество записей в таблице Users.
+            </summary>
+            <param name="sqlCondition">передаются только условия запроса</param>
+            <param name="sqlParameters">передаются параметры для sqlCondition</param>
+            <returns></returns>
+        </member>
+        <member name="T:APIAngular.Database.RangeValueAttribute">
+            <summary>
+            Атрибут для проверки минимального и максимального значений. Значения можно задавать по отдельности, или вместе.
+            </summary>
+        </member>
+        <member name="T:APIAngular.Database.Bulletin">
+            <summary>
+            Сущность объявление.
+            </summary>
+        </member>
+        <member name="T:APIAngular.Database.User">
+            <summary>
+            Сущность пользователь.
+            </summary>
+        </member>
+        <member name="T:APIAngular.Models.FilterBulletins">
+            <summary>
+            Модель фильтра для объявлений
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.BullCreateDateTimeBegin">
+            <summary>
+            Начальный диапазон даты
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.BullCreateDateTimeEnd">
+            <summary>
+            Конечный диапазон даты
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.BullTxt">
+            <summary>
+            Общий поиск - работает по полям bullTxt, bullCreateDateTime, bullEditDateTime и userName
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.BullRate">
+            <summary>
+            Рейтинг объявления. Должен находиться в диапазоне 1 - 10
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.UserId">
+            <summary>
+            Id пользователя, который опубликовал объявление
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.CountBulletinsOnPage">
+            <summary>
+            Количество объявлений на странице, значение по умолчанию 10
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.Page">
+            <summary>
+            Номер страницы, значение по умолчанию 0
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.FieldForSort">
+            <summary>
+            Имя поля для сортировки
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterBulletins.IsDesc">
+            <summary>
+            Сортировка. Поле принимает значения true/false(по умолчанию)
+            </summary>
+        </member>
+        <member name="T:APIAngular.Models.FilterUsers">
+            <summary>
+            Модель фильтра для пользователей
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.UserName">
+            <summary>
+            Имя пользователя
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.UserMail">
+            <summary>
+            mail пользователя
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.UserDateTimeRegisterBegin">
+            <summary>
+            Дата регистрации. Начальный диапазон
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.UserDateTimeRegisterEnd">
+            <summary>
+            Дата регистрации. Конечный диапазон
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.CountUsersOnPage">
+            <summary>
+            Количество пользователей на странице, значение по умолчанию 10
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.Page">
+            <summary>
+            Номер страницы, значение по умолчанию 0
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.FieldForSort">
+            <summary>
+            Имя поля для сортировки
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.FilterUsers.IsDesc">
+            <summary>
+            Сортировка. Поле принимает значения true/false(по умолчанию)
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.NewBulletin.BullRate">
+            <summary>
+            Рейтинг объявления. Должен находиться в диапазоне 1 - 10
+            </summary>
+        </member>
+        <member name="T:APIAngular.Models.ResultContainerOfBulletins">
+            <summary>
+            модель в которую записывается ответ в виде {pages: n, count: n, bulls:[...]}  и отправляется клиенту
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultContainerOfBulletins.CountPages">
+            <summary>
+            количество страниц в таблице объявлений
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultContainerOfBulletins.CountBulls">
+            <summary>
+            количество объявлений на странице
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultContainerOfBulletins.ListBulls">
+            <summary>
+            список объявлений
+            </summary>
+        </member>
+        <member name="T:APIAngular.Models.ResultContainerOfUsers">
+            <summary>
+            модель в которую записывается ответ в виде {pages: n, count: n, users:[...]}  и отправляется клиенту
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultContainerOfUsers.CountPages">
+            <summary>
+            количество страниц в таблице пользователей
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultContainerOfUsers.CountUsers">
+            <summary>
+            количество пользователей на странице
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultContainerOfUsers.ListUsers">
+            <summary>
+            список пользователей
+            </summary>
+        </member>
+        <member name="T:APIAngular.Models.ResultFilterBulletins">
+            <summary>
+            Результативная модель, в которую сохраняются данные от фильтра GetListBulletinsByFilter
+            </summary>
+        </member>
+        <member name="T:APIAngular.Models.ResultFilterUsers">
+            <summary>
+            Результрующая модель поиска для пользователей
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultFilterUsers.UserId">
+            <summary>
+            Id пользователя
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultFilterUsers.UserName">
+            <summary>
+            Имя пользователя
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultFilterUsers.UserMail">
+            <summary>
+            mail пользователя
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultFilterUsers.UserDateTimeRegister">
+            <summary>
+            Дата регистрации пользователя
+            </summary>
+        </member>
+        <member name="P:APIAngular.Models.ResultFilterUsers.CountBulletins">
+            <summary>
+            Количество объявлений, поданных пользователем
+            </summary>
+        </member>
+    </members>
+</doc>
